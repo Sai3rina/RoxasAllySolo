@@ -1,36 +1,1 @@
-- en: 'Roxas'
-  id: 1313
-- en: 'RoxasAlly´s equipment has been put in stock.'
-  id: 1136
-- en: 'With RoxasAlly´s help, use the Drive
-
-Command to change into Valor Form.'
-  id: 1603
-- en: 'A Limit Command that unleashes RoxasAlly´s
-
-spinning attack, Whirli-Yuk.
-
-Consumes all of Your MP. '
-  id: 13116
-- en: 'A Limit Command that unleashes RoxasAlly
-
-and your joint attack, Knocksmash.
-
-Consumes all of Your MP.'
-  id: 13118
-- en: 'Roxas Turbo'
-  id: 15489
-- en: 'Roxas Tornado'
-  id: 15485
-- en: 'Roxas Bash'
-  id: 15510
-- en: 'A Limit Command that uses Ugly teamwork
-
-to unleash the powerful Trinity attack.
-
-Consumes all of Sora´s MP.'
-  id: 13110
-- en: 'Ugly Teamwork'
-  id: 13117
-- en: 'Tornado Ugly'
-  id: 13115
+- en: 'Roxas'  id: 1312- en: 'With Roxas´s help, usethe Drive Command to change into Wisdom Form.'  id: 1605- en: 'Roxas Fire'  id: 13043- en: 'Roxas Blizzard '  id: 13045- en: 'Roxas Thunder '  id: 13047- en: 'Roxas Cure '  id: 13049- en: 'A Limit Command that unleashes Roxas´s powerful Comet spell.Consumes all of Your MP. '  id: 13112- en: 'A Limit Command that unleashesthe Mage´s powerful Flare spell.Consumes all of Your MP.'  id: 13114- en: 'Roxas Ugly Flare'  id: 14629- en: 'MegaRoxas Ugly Flare'  id: 14630- en: 'With Roxas´s help, usethe Drive Command to changeinto Wisdom Form.'  id: 1605- en: 'Ugly Fantasia'  id: 13111- en: 'Ugly Flare Force '  id: 13113- en: 'A Limit Command that unleashesYuki´s Ugly Yuki Flare spell.Consumes all of Sora´s MP.'  id: 13114- en: 'A Limit Command that unleashesYuki´s Ugly Comet spell.Consumes all of Sora´s MP.'  id: 13112
